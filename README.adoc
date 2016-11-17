@@ -1,0 +1,6 @@
+= DeskOS: mjpegtools RPM
+
+This is the _mjpegtools_ RPM package for the *DeskOS* operating system.
+
+Upstream comes from the NUX Dextop 7:
+http://li.nux.ro/download/nux/dextop/el7/SRPMS/mjpegtools-2.1.0-5.el7.nux.src.rpm[mjpegtools-2.1.0-5.el7.nux.src.rpm]
